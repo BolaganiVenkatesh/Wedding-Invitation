@@ -33,7 +33,7 @@ img {
 }
 
 .header {
-    flex-direction:row;
+    flex-direction:column;
 }
 
 .header h4 {
